@@ -1,3 +1,5 @@
+# How to Build an AI-Powered Celebrity Look-Alike Face Recognition System Using CNNs
+
 ### Introduction
 The project is focused on identifying celebrities that resemble a person in a given image using Convolutional Neural Networks (CNNs). The primary tools and libraries used include:
 - **OpenCV** for image processing.
