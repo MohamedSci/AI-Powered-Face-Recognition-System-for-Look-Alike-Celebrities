@@ -229,3 +229,16 @@ print("Top 5 look-alike celebrities:", top_5_celebrities)
 This project demonstrates how an AI-powered face recognition system can be developed to identify look-alike celebrities. By leveraging CNNs, we can extract meaningful features from facial images and use similarity metrics to compute matches. The same approach can be expanded to build more sophisticated face recognition systems, with potential applications in areas like entertainment, security, and social media. 
 
 For future improvements, one could explore using more advanced architectures such as **ResNet** or **FaceNet** for feature extraction, or utilize a larger and more diverse celebrity dataset.
+
+
+### SEO Keywords:
+AI face recognition system
+Celebrity look-alike app
+Build face recognition software
+Convolutional neural networks for face recognition
+Python face recognition project
+CNN face recognition tutorial
+AI image processing for face recognition
+Face similarity detection using AI
+Celebrity face matching app
+Machine learning for face recognition
