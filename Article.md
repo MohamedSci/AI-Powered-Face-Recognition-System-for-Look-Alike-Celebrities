@@ -1,5 +1,3 @@
-The provided Python script appears to be structured for use on Google Colab and implements an AI-powered face recognition system designed to find look-alike celebrities. Here's a breakdown of what the script entails:
-
 ### Introduction
 The project is focused on identifying celebrities that resemble a person in a given image using Convolutional Neural Networks (CNNs). The primary tools and libraries used include:
 - **OpenCV** for image processing.
