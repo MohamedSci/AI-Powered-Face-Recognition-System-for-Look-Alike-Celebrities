@@ -50,3 +50,6 @@ This project implements an AI-based face recognition system that identifies cele
 
 We welcome your contributions! Feel free to fork this repository and make improvements to the code, documentation, or functionalities. We can build this project together into a robust and effective face recognition system.
 
+## [Buy me a Coffee☕](<https://ko-fi.com/mohamedsaidibrahim>)
+
+If you enjoy this content and want to support me, feel free to [buy me a coffee](<https://ko-fi.com/mohamedsaidibrahim>)
